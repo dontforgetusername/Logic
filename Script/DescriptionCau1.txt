@@ -1,0 +1,71 @@
+﻿1. Ai là con của Prince Charles? 
+-> Prince William; Prince Harry
+
+2. Princess Anne là bà của ai?  
+-> Isla Phillips; Mia Grace Tindall; Savannah Phillips
+
+3. Ai là cháu trai của Prince Phillip? 
+-> Prince William, Prince Harry, James Viscount Severn; Peter Phillips
+
+4. Ai là anh trai của Lady Louise Mountbatten-Windsor? 
+-> James Viscount Severn
+
+5. Ai là vợ của Mike Tindall? 
+-> Zara Phillips
+
+6. Ai là vợ/chồng cũ của Captain Mark Phillips? 
+-> Princess Anne
+
+7. Ai là con của Kate Middleton? 
+-> Prince George; Princess Charles
+
+8. Ai là chồng của Sophie Rhys-jones? 
+-> Prince Edward
+
+9. Ai là chú của Prince Harry?
+-> Prince Andrew; Prince Edward
+
+10. Ai là chú của Mia Grace Tindall? 
+-> Peter Phillips
+
+11. Ai là cô của Princess Charlotte? 
+-> false.
+
+12. Ai là cha mẹ của Princess Beatrice? 
+-> Sarah Ferguson; Prince Andrew
+
+13. Timothy Laurence có phải là chồng của Princess Anne không? 
+-> true
+
+14. Prince William có phải là cha của Prince George không? 
+-> true
+
+15. Sarah Ferguson có phải là cô của Zara Phillips không? 
+-> false
+
+16. Isla Phillips có phải cháu nội của Princess Anna không? 
+-> true
+
+17. Ai là ông của James Viscount Severn? 
+-> Prince Phillip
+
+18. Ai là bà của Prince George? 
+-> Princess Diana
+
+19. Ai là con trai của Queen Elizabeth II? 
+-> Prince Charles; Prince Andrew; Prince Edward
+
+20. Ai là cháu gái của Prince Edward? 
+-> Zara Phillips, Princess Beatrice, Princess Eugenie
+
+21. Savannah Phillips có phải chị của Prince Charles không? 
+-> false
+
+22. Ai là anh chị em ruột của Prince Harry? 
+-> prince William
+
+23. Ai là chị em của Prince Charles? 
+-> Princess Anne
+
+24. Ai là cháu trai của Princess Anne? 
+-> Prince William, Prince Harry, James Viscount Severn.

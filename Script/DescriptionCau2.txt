@@ -1,0 +1,59 @@
+﻿* Vực sinh vật nhân thực có giới nào? 
+- Động vật, thực vật, nấm, sinh vật nguyên sinh, khởi sinh
+
+* Ngành tảo lục có thuộc giới thực vật không? 
+- true
+
+* Ngành chytridiomycota thuộc giới nào? 
+- Nấm
+
+* Ngành động vật có xương sống có lớp nào? 
+- Cá, bò sát, thú, chim, lưỡng cư
+
+* Lớp rêu có thuộc ngành thực vật có phôi không? 
+- true
+
+* Bộ dơi có thuộc lớp chim không? 
+- false
+
+* Bộ cá voi có thuộc lớp cá không? 
+- false
+
+* Bộ  thú túi và bộ cá voi có cùng một lớp không? 
+- true
+
+* Lớp chân khớp và lớp bò sát có cùng một ngành không? 
+- false
+
+* Ngành neocallimastigomycota và ngành ascomycota có cùng một giới không? 
+- true
+
+* Giới khởi sinh và giới động vật có cùng một vực không? 
+- true
+
+* Ngành thực vật có phôi thuộc vực nào? 
+- sinh vật nhân thực
+
+* Ngành tảo lục và ngành động vật có xương sống có cùng một vực không? 
+- true
+
+* Bộ gặm nhấm thuộc vực nào? 
+- sinh vật nhân thực
+
+* Giới thực vật có lớp nào? 
+- rêu, thực vật có mạch
+
+* Lớp nguyên sinh có thuộc giới sinh vật nguyên sinh không? 
+- false
+
+* Bộ linh trưởng thuộc giới nào? 
+- động vật
+
+* Bộ móng guốc có thuộc giới động vật không? 
+- true
+
+* Ngành động vật không xương sống có bộ ăn sâu bọ không? 
+- false
+
+* Bộ thú túi thuộc ngành nào? 
+- ngành động vật có xương sống

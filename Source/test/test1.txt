@@ -1,0 +1,24 @@
+?- child(X, princeCharles).
+?- grandmother(princessAnne, X).
+?- grandson(X, princePhillip).
+?- brother(X, ladyLouiseMountbattenWindsor).
+?- wife(X, mikeTindall).
+?- divorced(X,captainMarkPhillips).
+?- child(X, kateMiddleton).
+?- husband(X, sophieRhys-jones).
+?- uncle(X, princeHarry).
+?- uncle(X, miaGraceTindall).
+?- aunt(X, princessCharlotte).
+?- parent(X, princessBeatrice).
+?- husband(timothyLaurence, princessAnne).
+?- father(princeWilliam, princeGeorge).
+?- aunt(sarahFerguson, zaraPhillips).
+?- granddaughter(islaPhillips, princessAnne).
+?- grandfather(X, jamesViscountSevern).
+?- grandmother(X, princeGeorge).
+?- son(X, queenElizabethII).
+?- niece(X, princeEdward).
+?- sister(savannahPhillips, princeCharles).
+?- sibling(X, princeHarry).
+?- sister(X, princeCharles).
+?- nephew(X, princessAnne).

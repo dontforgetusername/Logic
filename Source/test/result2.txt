@@ -1,0 +1,49 @@
+?- gioi_vuc(X, sv_nhan_thuc).
+X = dong_vat ;
+X = thuc_vat ;
+X = nam ;
+X = sv_nguyen_sinh ;
+X = khoi_sinh .
+?- nganh_gioi(tao_luc, thuc_vat).
+true.
+?- nganh_gioi(chytridiomycota, X).
+X = nam .
+?- nganh_lop(co_xuong_song, X).
+X = ca ;
+X = bo_sat ;
+X = thu ;
+X = chim ;
+X = luong_cu .
+?- lop_nganh(reu, tv_co_phoi).
+true.
+?- bo_lop(doi, chim).
+false.
+?- bo_lop(ca_voi, ca).
+false.
+?- bo_cung_lop(thu_tui, ca_voi).
+true.
+?- lop_cung_nganh(chan_khop, bo_sat).
+false.
+?- nganh_cung_gioi(neocallimastigomycota, ascomycota).
+true.
+?- gioi_cung_vuc(dong_vat, khoi_sinh).
+true.
+?- nganh_vuc(tv_co_phoi, X).
+X = sv_nhan_thuc .
+?- nganh_cung_vuc(tao_luc, co_xuong_song).
+true.
+?- vuc_bo(X, gam_nham).
+X = sv_nhan_thuc .
+?- lop_gioi(X, thuc_vat).
+X = reu ;
+X = tv_co_mach .
+?- gioi_lop(sv_nguyen_sinh, nguyen_sinh).
+false.
+?- gioi_bo(X, linh_truong).
+X = dong_vat .
+?- bo_gioi(mong_guoc, dong_vat).
+true.
+?- nganh_bo(khong_xuong_song, an_sau_bo).
+false.
+?- bo_nganh(thu_tui, X).
+X = co_xuong_song .

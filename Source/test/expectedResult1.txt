@@ -1,0 +1,74 @@
+?- child(X, princeCharles).
+X = princeWilliam ;
+X = princeHarry.
+?- grandmother(princessAnne, X).
+X = savannahPhillips ;
+X = islaPhillips ;
+X = miaGraceTindall.
+?- grandson(X, princePhillip).
+X = princeWilliam ;
+X = princeHarry ;
+X = peterPhillips ;
+X = jamesViscountSevern ;
+false
+?- brother(X, ladyLouiseMountbattenWindsor).
+X = jamesViscountSevern ;
+false.
+?- wife(X, mikeTindall).
+X = zaraPhillips.
+?- divorced(X,captainMarkPhillips).
+X = princessAnne.
+?- child(X, kateMiddleton).
+X = princeGeorge ;
+X = princessCharlotte.
+?- husband(X, sophieRhys-jones).
+X = princeEdward.
+?- uncle(X, princeHarry).
+X = princeAndrew ;
+X = princeEdward ;
+false.
+?- uncle(X, miaGraceTindall).
+X = peterPhillips ;
+false.
+ഀ?- aunt(X, princessCharlotte).
+false.
+?- parent(X, princessBeatrice).
+X = sarahFeguson ;
+X = princeAndrew.
+?- husband(timothyLaurence, princessAnne).
+true.
+?- father(princeWilliam, princeGeorge).
+true 
+?- aunt(sarahFerguson, zaraPhillips).
+false.
+?- granddaughter(islaPhillips, princessAnne).
+true.
+̀?- grandfather(X, jamesViscountSevern).
+X = princePhillip ;
+false.
+?- grandmother(X, princeGeorge).
+X = princessDiana ;
+false.
+?- son(X, queenElizabethII).
+X = princeCharles ;
+X = princeAndrew ;
+X = princeEdward.
+?- niece(X, princeEdward).
+X = zaraPhillips ;
+X = princessBeatrice ;
+X = princessEugenie ;
+false.
+?- sister(savannahPhillips, princeCharles).
+false.
+?- sibling(X, princeHarry).
+X = princeWilliam ;
+false.
+?- sister(X, princeCharles).
+X = princessAnne ;
+false.
+?- nephew(X, princessAnne).
+X = princeWilliam ;
+X = princeHarry ;
+X = jamesViscountSevern ;
+false.
+
